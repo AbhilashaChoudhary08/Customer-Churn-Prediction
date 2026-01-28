@@ -66,7 +66,3 @@ pip install -r requirements.txt
 streamlit run app/app.py
 
 ```
-
----
-
-**Next Step:** Since your code is now successfully pushed to GitHub, would you like me to generate a specific `requirements.txt` file based on the libraries used in your churn prediction scripts?
